@@ -87,12 +87,11 @@
 
 ## 🏆 Achievements
 
-- 🥈 Silver Certified Smart Coder — Smart Interviews Phase 2
-- 👩‍🏫 DSA Mentor at Smart Interviews
-- 🧠 Solved problems on coding platforms
-- 🌐 Participating in open-source and technical activities
-- 📜 NPTEL Machine Learning Elite certification
-
+- 🥉 Secured 3rd Place in the College-Level Failathon (Pivot), 2024.
+- 👩‍🏫 Serving as a DSA Mentor at Smart Interviews.
+- 💻 Solved 170+ problems on LeetCode with a contest rating of 1435.
+- 🥈 Earned Silver Smart Coder recognition after completing Phase 2 of the Smart Interviews Program.
+- 👩‍💼 Serving as Class Representative (2025–Present), demonstrating leadership and teamwork.
 ---
 
 ## 📊 GitHub Stats
